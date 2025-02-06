@@ -34,7 +34,7 @@ export default function Exercise() {
 
 const styles = StyleSheet.create({
     scrollView: {
-        backgroundColor: 'pink',
+        backgroundColor: 'skyblue',
     },
     container: {
         marginHorizontal: '2.5%',
@@ -50,6 +50,6 @@ const styles = StyleSheet.create({
     },
     text1: {
         fontSize: 15,
-        color: '#f22473',
+        color: '#002147 ',
     }
 });

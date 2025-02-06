@@ -5,8 +5,8 @@ export default function Home() {
 
     return (
         <View style={styles.container}>
-            <Text style={[styles.text, { marginTop: 30 }]}>Samantha Gene V.</Text>
-            <Text style={styles.text}>Cruspero</Text>
+            <Text style={[styles.text, { marginTop: 30 }]}>Jomel John S.</Text>
+            <Text style={styles.text}>Oracion</Text>
         </View>
     )
 }
@@ -14,7 +14,7 @@ export default function Home() {
 const styles = StyleSheet.create({
     container: {
         flex: 20,
-        backgroundColor: 'pink',
+        backgroundColor: 'skyblue',
     },
     text: {
         marginLeft: 25,
