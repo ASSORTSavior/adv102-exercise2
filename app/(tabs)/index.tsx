@@ -5,7 +5,7 @@ export default function Home() {
 
     return (
         <View style={styles.container}>
-            <Text style={[styles.text, { marginTop: 30 }]}>Jomel John S.</Text>
+            <Text style={[styles.text, { marginTop: 30 }]}>Jomel John Sabellaga</Text>
             <Text style={styles.text}>Oracion</Text>
         </View>
     )

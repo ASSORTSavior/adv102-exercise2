@@ -9,17 +9,13 @@ export default function RootLayout() {
                     headerShown: false,
                 }}
             />
+            
             <Stack.Screen 
-                name="(information)"
-                options={{
-                    headerShown: false,
-                }} />
-            <Stack.Screen 
-                name="settings" 
+                name="excercises" 
                 options={{
                     headerShown: false,
                 }}
-            />
+                />
         </Stack>
     )
 }
